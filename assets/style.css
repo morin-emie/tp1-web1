@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "Police_Titre";
+  src: url(./fonts/Livingst.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Police_Paragraphe";
+  src: url(./fonts/Citadel_of_Blackrose.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+h1 {
+  color: #3e2723;
+  font-size: 45px;
+  text-align: center;
+  font-family: "Police_Titre", sans-serif;
+}
+p {
+  color: #3e2723;
+  font-size: 45px;
+  text-align: center;
+  font-family: "Police_Paragraphe", sans-serif;
+}
+
+img {
+  height: 700px;
+
+  display: block;
+    margin: 0 auto;
+}
+
+body{
+  background-color: #b39f85;
+
+}
+
+li{
+    color: #3e2723;
+  font-size: 45px;
+  text-align: center;
+  font-family: "Police_Paragraphe", sans-serif;
+}
